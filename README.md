@@ -1,0 +1,2 @@
+# IoT-Based-Weather-Station-
+In this project, we are putting together a Weather Station using a variety of sensors. The platform being used is an Arduino board As we work through the project we will connect up the various sensors. In this process, we create the software sketch that will run the weather station.  We could also use a WiFi connection to provide the data communications. This would however require an alternative power source such as a solar panel and battery. We will add GSM Module at a later stage.
