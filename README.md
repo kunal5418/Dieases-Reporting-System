@@ -1,2 +1,5 @@
-# IoT-Based-Weather-Station-
-In this project, we are putting together a Weather Station using a variety of sensors. The platform being used is an Arduino board As we work through the project we will connect up the various sensors. In this process, we create the software sketch that will run the weather station.  We could also use a WiFi connection to provide the data communications. This would however require an alternative power source such as a solar panel and battery. We will add GSM Module at a later stage.
+# Disease Reporting System
+
+Disease reporting system has a good infrastructure and supports in the day-to-day life. Its quality improvements are challenging and requires an accurate and efficient care and reporting systems at all levels to achieve new and simple models. This study evaluates reporting systems of communicable diseases using a systematic review. Disease reporting system has similar problems in all parts of the world. Change improve, update and continuous monitoring of the reporting system are very important. Although the process can vary in different regions, but being perfect and timely are important principles of the system design. Detailed explanation of tasks and providing appropriate instructions are in the most important points to integrate an efficient reporting system.
+> Keyword: communicable diseases, evaluation, efficient, reporting system 
+
